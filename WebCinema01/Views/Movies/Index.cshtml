@@ -1,0 +1,77 @@
+@model IEnumerable<WebCinema01.Models.Movie>
+
+@{
+    ViewBag.Title = "Movies";
+}
+
+<h2>Movies</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            Title
+        </th>
+        <th>
+            Director
+        </th>
+        <th>
+            Actors
+        </th>
+        <th>
+            Description
+        </th>
+        <th>
+            FromDate
+        </th>
+        <th>
+            ToDate
+        </th>
+        <th>
+            Picture
+        </th>
+        <th>
+            Duration
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.MovieId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.MovieId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.MovieId })
+        </td>
+        <td>
+			@item.Title
+        </td>
+        <td>
+			@item.Director
+        </td>
+        <td>
+			@item.Actors
+        </td>
+        <td>
+			@item.Description
+        </td>
+        <td>
+			@String.Format("{0:d}", item.FromDate)
+        </td>
+        <td>
+			@String.Format("{0:d}", item.ToDate)
+        </td>
+        <td>
+			@item.Picture
+        </td>
+        <td>
+			@item.Duration
+        </td>
+    </tr>
+}
+
+</table>
+
+

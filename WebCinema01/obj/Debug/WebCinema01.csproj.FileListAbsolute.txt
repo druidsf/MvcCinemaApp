@@ -1,0 +1,159 @@
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebCinema01.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebCinema01.pdb
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Antlr3.Runtime.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.Core.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\EntityFramework.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Newtonsoft.Json.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Net.Http.Formatting.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Helpers.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Http.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Http.WebHost.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Mvc.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Optimization.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Razor.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.WebPages.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.WebPages.Razor.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebGrease.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebMatrix.Data.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebMatrix.WebData.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Mono.Math.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.Core.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Newtonsoft.Json.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Razor.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\EntityFramework.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Net.Http.Formatting.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Helpers.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Http.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Http.WebHost.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.Mvc.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.WebPages.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\System.Web.WebPages.Razor.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebMatrix.Data.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\WebMatrix.WebData.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\bin\Mono.Math.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\obj\Debug\WebCinema01.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\obj\Debug\WebCinema01.pdb
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\WebCinema01\obj\Debug\WebCinema01.csprojResolveAssemblyReference.cache
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebCinema01.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebCinema01.pdb
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Antlr3.Runtime.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.Core.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\EntityFramework.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Newtonsoft.Json.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Net.Http.Formatting.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Helpers.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Http.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Http.WebHost.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Mvc.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Optimization.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Razor.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.WebPages.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.WebPages.Razor.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebGrease.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebMatrix.Data.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebMatrix.WebData.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Org.Mentalis.Security.Cryptography.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Mono.Math.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.Core.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Newtonsoft.Json.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Razor.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\EntityFramework.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Net.Http.Formatting.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Helpers.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Http.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Http.WebHost.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.Mvc.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.WebPages.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\System.Web.WebPages.Razor.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebMatrix.Data.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\WebMatrix.WebData.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Org.Mentalis.Security.Cryptography.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\bin\Mono.Math.xml
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\obj\Debug\WebCinema01.csprojResolveAssemblyReference.cache
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\obj\Debug\WebCinema01.dll
+C:\Users\Codrut\Documents\Visual Studio 2012\Projects\WebCinema01\CinemaWeb\WebCinema01\obj\Debug\WebCinema01.pdb
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebCinema01.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebCinema01.pdb
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Antlr3.Runtime.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.AspNet.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.Core.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OAuth.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OpenId.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\EntityFramework.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Microsoft.Web.Infrastructure.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Newtonsoft.Json.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Net.Http.Formatting.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Helpers.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Http.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Http.WebHost.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Mvc.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Optimization.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Razor.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.WebPages.Deployment.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.WebPages.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.WebPages.Razor.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebGrease.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebMatrix.Data.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebMatrix.WebData.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Org.Mentalis.Security.Cryptography.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Mono.Math.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.AspNet.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.Core.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OAuth.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OpenId.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Newtonsoft.Json.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Razor.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\EntityFramework.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Net.Http.Formatting.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Helpers.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Http.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Http.WebHost.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.Mvc.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.WebPages.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.WebPages.Deployment.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\System.Web.WebPages.Razor.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebMatrix.Data.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\WebMatrix.WebData.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Org.Mentalis.Security.Cryptography.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\bin\Mono.Math.xml
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\obj\Debug\WebCinema01.csprojResolveAssemblyReference.cache
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\obj\Debug\WebCinema01.dll
+E:\cinemaWeb\cinemaMvcApp\WebCinema01\obj\Debug\WebCinema01.pdb
