@@ -1,0 +1,787 @@
+/* =================== Getting the new tags to behave START ====================== */
+
+article, aside, audio, canvas, command, datalist, details, figcaption, figure, footer, header, hgroup, keygen, meter, nav, output, progress, section, source, video { display: block; }
+mark, rp, rt, ruby, summary, time { display: inline }
+
+/* ==================== Getting the new tags to behave END ======================= */
+
+
+
+
+
+/* ========================= Global properties START ============================= */
+
+body {
+	background: #1e1f1f;
+	min-width: 1022px;
+	height: 100%;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 1em;
+	color: #393939;
+}
+
+html {
+	background: transparent;
+	min-width: 1022px;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	outline: 0;
+	vertical-align: top;
+	font-size: 100%;
+}
+
+div {
+	border: 0 none;
+	font-size: 100%;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	vertical-align: top;
+}
+
+a {
+	outline: none;
+	color: #e51717;
+}
+
+	a:hover {
+		text-decoration: none;
+	}
+	
+/* ========================= Global properties END =============================== */
+
+
+
+
+
+
+/* ========================= Global Structure START ============================== */
+
+#main-tail {
+	background: url(images/main-tail.gif) repeat 50% 0%;
+}
+
+#main-tail-top {
+	background: url(images/main-tail-top.gif) repeat-x 50% 0%;
+}
+
+#main-tail-bot {
+	background: url(images/main-tail-bot.gif) repeat-x 50% 100%;
+	width: 100%;
+}
+
+#main {
+	width: 1022px;
+	margin: 0 auto;
+	font-size: 0.75em;
+}
+
+header {
+	position: relative;
+	height: 179px;
+}
+
+section#content {
+	width: 100%;
+}
+
+footer {
+	background: url(images/footer.gif) repeat-x 0% 0%;
+	height: 69px;
+	overflow: hidden;
+}
+
+/* ========================= Global Structure END ================================ */
+
+
+
+
+
+
+/* ====================== Left & Right alignment START =========================== */
+
+.fleft {
+	float: left;
+}
+
+.fright {
+	float: right;
+}
+
+.col-1, .col-2, .col-3, .col-4 {
+	float: left;
+	overflow: hidden;
+}
+
+.block-1, .block-2, .block-3, .block-4 {
+	float: left;
+	overflow: hidden;
+}
+
+.aligncenter {
+	padding: 15px 0 0 0;
+	text-align: center;
+}
+
+.wrapper {
+	width: 100%;
+	overflow: hidden;
+}
+
+.clear {
+	clear: both;
+	font-size: 0%;
+	line-height: 0%;
+	height: 0;
+}
+
+/* ====================== Left & Right alignment END ============================= */
+
+
+
+
+
+/* ============================== header START =================================== */
+
+nav {
+	position: absolute;
+	top: 72px;
+	right: -1px;
+}
+
+	nav ul {
+		overflow: hidden;
+	}
+	
+		nav ul li {
+			float: left;
+			padding: 0 0 0 1px;
+		}
+		
+			nav ul li a {
+				background: url(images/menu-tail.gif) repeat-x 0% 100%;
+				float: left;
+				height: 67px;
+				overflow: hidden;
+				padding: 0 19px 0 19px;
+				line-height: 70px;
+				font-size: 1.417em;
+				text-decoration: none;
+				color: #9a9a9a;
+			}
+			
+			nav ul li.act a {
+				background: url(images/menu-tail-act.gif) repeat-x 0% 0%;
+				color: #fff;
+			}
+			
+			nav ul li a:hover {
+				background: url(images/menu-tail-act.gif) repeat-x 0% 0%;
+				color: #fff;
+			}
+
+/* =============================== header END ==================================== */
+
+
+
+
+
+/* ============================= content START =================================== */
+
+#content #indent {
+	padding: 0 0 10px 0;
+}
+
+	#content p {
+		padding: 0 0 12px 0;
+		line-height: 1.308em;
+		font-size: 1.083em;
+		color: #949495;
+	}
+	
+		#content p.extra {
+			padding: 0 0 20px 0;
+		}
+		
+		#content p.extra1 {
+			padding: 0 0 21px 0;
+		}
+		
+	#content p span {
+		line-height: 1.385em;
+	}
+
+#column-left {
+	float: left;
+	width: 678px;
+	padding: 0 10px 0 0;
+}
+
+#column-right {
+	float: left;
+	width: 334px;
+}
+
+/* ============================== content END ==================================== */
+
+
+
+/* ============================= boxes START ===================================== */
+
+.box {
+	background: url(images/box-tail.gif) repeat 50% 0%;
+	width: 100%;
+	margin: 0 0 10px 0;
+	overflow: hidden;
+}
+	
+	.box .inner {
+		padding: 14px 20px 22px 20px;
+	}
+	
+	.box .inner-1 {
+		padding: 12px 20px 19px 19px;
+	}
+	
+/* ============================== boxes END ====================================== */
+
+
+
+
+
+/* =================== txt, links, lines, titles START =========================== */
+
+h1 {
+	background: url(images/logo-bg.gif) no-repeat 0% 0%;
+	width: 340px;
+	height: 140px;
+	overflow: hidden;
+	position: absolute;
+	top: 13px;
+	left: -51px;
+}
+
+	h1 a {
+		background: url(images/logo.gif) no-repeat 0% 0%;
+		display: block;
+		width: 289px;
+		height: 60px;
+		overflow: hidden;
+		position: absolute;
+		top: 46px;
+		left: 49px;
+	}
+	
+		h1 a span {
+			display: none;
+		}
+
+h2 {
+	background: url(images/title-tail.gif) repeat-x 0% 0%;
+	height: 35px;
+	padding: 0 0 0 19px;
+	line-height: 34px;
+	font-size: 1.5em;
+	font-weight: normal;
+	color: #fff;
+}
+
+h3 {
+	padding: 0 0 12px 0;
+	line-height: 1.25em;
+	font-size: 2em;
+	color: #fff;
+}
+
+	h3 span {
+		padding: 0 0 0 2px;
+		letter-spacing: normal;
+		font-weight: normal;
+		color: #f03030;
+	}
+	
+	h3 strong {
+		display: block;
+		padding: 0 0 1px 0;
+	}
+
+h4 {
+	background: url(images/title-tail1.gif) repeat-x 0% 0%;
+	height: 35px;
+	padding: 0 0 0 19px;
+	line-height: 34px;
+	font-size: 1.5em;
+	font-weight: normal;
+	color: #fff;
+}
+
+h5 {
+	padding: 0 0 10px 0;
+	line-height: 1.2em;
+	font-size: 2.083em;
+	font-weight: normal;
+	color: #e51717;
+}
+
+.link {
+	background: url(images/arrow.gif) no-repeat 100% 7px;
+	float: left;
+	padding: 0 8px 0 0;
+	line-height: 1.417em;
+	font-size: 1em;
+	font-weight: bold;
+	color: #e51717;
+}
+	
+	.link:hover span span {
+		cursor: pointer;
+		text-decoration: underline;
+	}
+
+/* ==================== txt, links, lines, titles END ============================ */
+
+
+
+
+
+/* ============================= forms START ===================================== */
+
+#contact-form {
+	width: 100%;
+	overflow: hidden;
+}
+
+#search-form {
+	width: 260px;
+	height: 31px;
+	overflow: hidden;
+	position: absolute;
+	top: 27px;
+	right: -1px;
+}
+
+	#search-form input {
+		background: #242425;
+		width: 211px;
+		height: 15px;
+		padding: 8px 8px 8px 8px;
+		border: none;
+		float: left;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size: 1em;
+		color: #fff;
+	}
+	
+	#search-form input#search-submit {
+		background: url(images/search-submit.gif) no-repeat 0% 0%;
+		width: 33px;
+		height: 31px;
+		padding: 0;
+		border: none;
+		float: left;
+		cursor: pointer;
+	}
+
+/* ============================== forms END ====================================== */
+
+
+
+
+
+/* ============================= other START ===================================== */
+
+.pic-indent {
+	margin: 0 0 0 0;
+}
+
+.list {
+	padding: 0 0 22px 0;
+	overflow: hidden;
+}
+
+	.list li {
+		background: url(images/marker.gif) no-repeat 0% 7px;
+		padding: 0 0 0 6px;
+		line-height: 1.417em;
+		font-size: 1em;
+		font-weight: bold;
+		color: #e51717;
+	}
+	
+		.list li a {
+			color: #e51717;
+		}
+
+.list-1 {
+	margin: 0 0 -43px 0;
+	overflow: hidden;
+}
+
+	.list-1 dt {
+		padding: 0 0 10px 0;
+		line-height: 1.2em;
+		font-size: 2.083em;
+		font-weight: bold;
+		color: #fff;
+	}
+	
+		.list-1 dt a {
+			text-decoration: none;
+			color: #fff;
+		}
+		
+			.list-1 dt a:hover {
+				color: #e51717;
+			}
+			
+		.list-1 dt span {
+			padding: 0 0 0 6px;
+			font-weight: normal;
+			color: #f03030;
+		}
+			
+	.list-1 dd {
+		padding: 0 0 43px 0;
+		line-height: 1.308em;
+		font-size: 1.083em;
+		color: #969697;
+	}
+	
+		.list-1 dd span {
+			display: block;
+			padding: 22px 0 0 0;
+			font-size: 0.923em;
+			font-weight: bold;
+			color: #e51717;
+		}
+		
+			.list-1 dd span a {
+				background: url(images/arrow.gif) no-repeat 100% 6px;
+				padding: 0 9px 0 0;
+			}
+
+.list-2 {
+	margin: 0 0 -9px 0;
+	overflow: hidden;
+}
+
+	.list-2 dt {
+		padding: 0 0 10px 0;
+		line-height: 1.2em;
+		font-size: 2.083em;
+		font-weight: bold;
+		color: #e51717;
+	}
+	
+		.list-2 dt a {
+			text-decoration: none;
+			color: #e51717;
+		}
+		
+		.list-2 dt a:hover {
+			color: #fff;
+		}
+		
+	.list-2 dd {
+		padding: 0 0 23px 0;
+	}
+	
+		.list-2 dd p {
+			padding: 0 0 11px 0 !important;
+		}
+		
+		.list-2 dd b {
+			display: block;
+			width: 100%;
+			padding: 4px 0 0 0;
+			overflow: hidden;
+		}
+
+.list-3 {
+	padding: 0 0 4px 0;
+	overflow: hidden;
+}
+
+	.list-3 li {
+		width: 100%;
+		overflow: hidden;
+		vertical-align: top;
+	}
+	
+	.list-3 li.extra {
+		background: url(images/video-bg.gif) no-repeat 100% 0%;
+	}
+	
+		.list-3 li img {
+			float: left;
+			margin: 0 19px 0 0;
+		}
+		
+		.list-3 li strong {
+			display: block;
+			min-height: 40px;
+			height: auto !important;
+			height: 40px;
+			padding: 16px 15px 7px 0;
+			line-height: 1.385em;
+			font-size: 1.083em;
+			color: #fff;
+		}
+		
+		.list-3 li b {
+			display: block;
+			line-height: 1.5em;
+			font-size: 1em;
+			font-weight: normal;
+			color: #e51717;
+		}
+
+.list-indent {
+	padding: 0 0 25px 0 !important;
+}
+
+.privacy {
+	width: 100%;
+	overflow: hidden;
+}
+
+	.privacy p {
+		padding: 0 0 18px 0 !important;
+		line-height: 1.385em !important;
+		font-size: 1.083em !important;
+		color: #9a9a9b !important;
+	}
+	
+	.privacy p.extra {
+		padding: 0 0 3px 0 !important;
+	}
+	
+		.privacy p a {
+			color: #9a9a9b;
+		}
+
+/* ============================== other END ====================================== */
+
+
+
+
+
+/* ============================= JS faded slider START ===================================== */
+
+#gallery {
+	position: relative;
+	width: 100%;
+	height: 586px;
+	margin: 0 0 19px 0;
+	overflow: hidden;
+}
+
+#faded ul {
+	width: 1022px;
+	height: 415px;
+	overflow: hidden;
+}
+
+ul.pagination {
+	width: 100%;
+	height: 171px;
+	overflow: hidden;
+	position: absolute;
+	top: 415px;
+	left: 0;
+}
+
+	ul.pagination li {
+		float: left;
+	}
+
+		ul.pagination li a {
+			float: left;
+			width: 170px;
+			text-decoration: none;
+			color: #fff;
+		}
+		
+			ul.pagination li.extra a {
+				width: 171px;
+			}
+		
+		ul.pagination li strong {
+			background: url(images/gallery-bg-1.gif) repeat-x 50% 0%;
+			display: block;
+			height: 35px;
+			padding: 0 0 0 19px;
+			line-height: 32px;
+			font-weight: normal;
+			color: #fff;
+		}
+		
+			ul.pagination li a:hover strong {
+				background: url(images/gallery-act.gif) repeat-x 0% 0%;
+			}
+		
+		ul.pagination li b {
+			background: url(images/gallery-bg-2.gif) repeat-x 50% 0%;
+			display: block;
+			height: 35px;
+			padding: 0 0 0 19px;
+			line-height: 32px;
+			font-weight: normal;
+			color: #fff;
+		}
+		
+			ul.pagination li a:hover b {
+				background: url(images/gallery-act.gif) repeat-x 0% 0%;
+			}
+
+		ul.pagination li.current a strong {
+			background: url(images/gallery-act.gif) repeat-x 0% 0%;
+		}
+		
+		ul.pagination li.current a b {
+			background: url(images/gallery-act.gif) repeat-x 0% 0%;
+		}
+
+/* ============================== JS faded slider END ====================================== */
+
+
+
+
+
+/* ============================== JS video START ====================================== */
+
+	.clearfix:after {
+	    content: "."; 
+	    display: block; 
+	    height: 0; 
+	    clear: both; 
+	    visibility: hidden;
+	}
+
+	.clearfix {display: inline-block;}
+
+	/* Hides from IE-mac \*/
+	* html .clearfix {height: 1%;}
+	.clearfix {display: block;}
+	/* End hide from IE-mac */
+	
+	.gallery {
+		width: 100%;
+		padding: 0 0 4px 0;
+		overflow: hidden;
+	} 
+	
+		.gallery li {
+			position: relative;
+			width: 100%;
+			overflow: hidden;
+			vertical-align: top;
+		}
+		
+		.gallery li.extra {
+			background: url(images/video-bg.gif) repeat 100% 0%;
+		}
+		
+			.gallery li em a {
+				background: url(images/play.png) no-repeat 140px 77px;
+				display: block;
+				width: 164px;
+				height: 101px;
+				overflow: hidden;
+				position: absolute;
+				top: 0;
+				left: 0;
+			}
+			
+				.gallery li em a:hover {
+					background-position: 50% 50%;
+				}
+			
+			.gallery li img {
+				float: left;
+				margin: 0 19px 0 0;
+			}
+			
+			.gallery li strong {
+				display: block;
+				padding: 16px 15px 29px 0;
+				line-height: 1.385em;
+				font-size: 1.083em;
+				color: #fff;
+			}
+			
+				.gallery li i {
+					display: block;
+					padding: 16px 15px 11px 0;
+					line-height: 1.385em;
+					font-size: 1.083em;
+					font-weight: bold;
+					font-style: normal;
+					color: #fff;
+				}
+			
+			.gallery li b a {
+				line-height: 1.5em;
+				font-size: 1em;
+				font-weight: normal;
+				color: #e51717;
+			}
+
+/* ============================== JS video END ====================================== */
+
+
+
+
+
+
+/* ============================ footer START ===================================== */
+
+footer .inner {
+	padding: 17px 0 0 0;
+}
+
+footer ul {
+	float: right;
+}
+
+	footer ul li {
+		float: left;
+		padding: 0 0 0 19px;
+		line-height: 1.2em;
+		font-size: 1.417em;
+		color: #75777a;
+	}
+	
+		footer ul li a {
+			text-decoration: none;
+			color: #75777a;
+		}
+		
+		footer ul li a:hover {
+			text-decoration: underline;
+		}
+
+footer p {
+	padding: 1px 0 0 0;
+	line-height: 1.2em;
+	font-size: 1.25em;
+	color: #75777a;
+}
+
+	footer p span {
+		padding: 0 0 0 3px;
+	}
+	
+	footer p a {
+		margin: 0 0 0 12px;
+		text-decoration: none;
+		color: #e51717;
+	}
+	
+	footer p a:hover {
+		text-decoration: underline;
+	}
+
+/* ============================= footer END ====================================== */
