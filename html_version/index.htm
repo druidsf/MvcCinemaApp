@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Cinema Mizerie</title>
+	<meta charset="UTF-8">
+
+	<link rel="stylesheet" href="style_reset.css" type="text/css" />
+	<link rel="stylesheet" href="style.css" type="text/css" />
+		
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
+	<script type="text/javascript" src="script.js"></script>
+	<script type="text/javascript" src="tabs.js"></script>
+</head>
+
+<body>
+	<div class="container">
+		<div class="menu"> 
+			<div class="menuItem selected_menu">Menu<a href="#"></a></div>
+			<div class="menuItem"><a href="#">Menu</a></div>
+			<div class="menuItem"><a href="#">Menu</a></div>
+			<div class="menuItem"><a href="#">Menu</a></div>
+		</div>
+
+
+		<div id="tabs">
+		   <ul>
+		     <li><a href="#tab-1">Luni</a></li>
+		     <li><a href="#tab-2">Marti</a></li>
+		     <li><a href="#tab-3">Miercuri</a></li>
+		     <li><a href="#tab-4">Joi</a></li>
+		     <li><a href="#tab-4">Vineri</a></li>
+		     <li><a href="#tab-4">Sambata</a></li>
+		     <li><a href="#tab-4">Duminica</a></li>
+		   </ul>
+		   <div id="tab-1">
+		     
+		   </div>
+		   <div id="tab-2">
+		     
+		   </div>
+		   <div id="tab-3">
+		     
+		   </div>
+		   <div id="tab-4">
+		     
+		   </div>
+		 </div>
+
+
+		 	<table id="schedule_grid">
+				<thead>
+					<tr>
+						<th class="null">&nbsp;</th>
+						<th class="column1">Sala 1</th>
+						<th class="column2">Sala 2</th>
+						<th class="column3">Sala 3</th>
+					</tr>
+				</thead>
+
+				<tbody>
+					<tr>
+						<th>Ora</th>
+						<td class="column1">Film</td>
+						<td class="column2">Film</td>
+						<td class="column3">Film</td>
+					</tr>
+					
+				</tbody>
+			</table>
+
+
+
+  
+        <div id="holder"> 
+			<ul  id="place">
+        	</ul>    
+		</div>
+	 	<div style="width:600px;text-align:center;overflow:auto"> 
+			<ul id="seatDescription">
+				<li style="background:url('available_seat_img.gif') no-repeat scroll 0 0 transparent;">Available Seat</li>
+				<li style="background:url('booked_seat_img.gif') no-repeat scroll 0 0 transparent;">Booked Seat</li>
+				<li style="background:url('selected_seat_img.gif') no-repeat scroll 0 0 transparent;">Selected Seat</li>
+			</ul>        
+		</div>
+	<div style="width:580px;text-align:left;margin:5px">	
+		<input type="button" id="btnShowNew" value="Show Selected Seats" /><input type="button" id="btnShow" value="Show All" />            
+	</div>
+
+	</div>
+
+</body>
+</html>
