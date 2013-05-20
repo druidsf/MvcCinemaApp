@@ -1,0 +1,45 @@
+@model WebCinema01.Models.Reservation
+
+@* This partial view defines form fields that will appear when creating and editing entities *@
+
+<div class="editor-label">
+    @Html.LabelFor(model => model.UserId)
+</div>
+<div class="editor-field">
+    @Html.EditorFor(model => model.UserId)
+    @Html.ValidationMessageFor(model => model.UserId)
+</div>
+
+<div class="editor-label">
+    Program
+</div>
+<div class="editor-field">
+    @Html.DropDownListFor(model => model.ProgramId, ((IEnumerable<WebCinema01.Models.Program>)ViewBag.PossiblePrograms).Select(option => new SelectListItem {
+        Text = Html.DisplayTextFor(_ => option).ToString(), 
+        Value = option.ProgramId.ToString(),
+        Selected = (Model != null) && (option.ProgramId == Model.ProgramId)
+    }), "Choose...")
+    @Html.ValidationMessageFor(model => model.ProgramId)
+</div>
+<div class="editor-label">
+    Hall
+</div>
+<div class="editor-field">
+    @Html.DropDownListFor(model => model.HallId, ((IEnumerable<WebCinema01.Models.Hall>)ViewBag.PossibleHalls).Select(option => new SelectListItem {
+        Text = Html.DisplayTextFor(_ => option).ToString(), 
+        Value = option.HallId.ToString(),
+        Selected = (Model != null) && (option.HallId == Model.HallId)
+    }), "Choose...")
+    @Html.ValidationMessageFor(model => model.HallId)
+</div>
+<div class="editor-label">
+    Place
+</div>
+<div class="editor-field">
+    @Html.DropDownListFor(model => model.PlaceId, ((IEnumerable<WebCinema01.Models.Place>)ViewBag.PossiblePlaces).Select(option => new SelectListItem {
+        Text = Html.DisplayTextFor(_ => option).ToString(), 
+        Value = option.PlaceId.ToString(),
+        Selected = (Model != null) && (option.PlaceId == Model.PlaceId)
+    }), "Choose...")
+    @Html.ValidationMessageFor(model => model.PlaceId)
+</div>

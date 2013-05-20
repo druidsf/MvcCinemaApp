@@ -1,0 +1,35 @@
+@model IEnumerable<WebCinema01.Models.Reservation>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table>
+    <tr>
+        <th></th>
+        <th>
+            UserId
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.ReservationId }) |
+            @Html.ActionLink("Details", "Details", new { id=item.ReservationId }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.ReservationId })
+        </td>
+        <td>
+			@item.UserId
+        </td>
+    </tr>
+}
+
+</table>
+
+

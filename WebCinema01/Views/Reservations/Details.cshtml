@@ -1,0 +1,20 @@
+@model WebCinema01.Models.Reservation
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>Reservation</legend>
+
+    <div class="display-label">UserId</div>
+    <div class="display-field">@Model.UserId</div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ReservationId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
+
+
