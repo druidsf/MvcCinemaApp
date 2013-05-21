@@ -3,16 +3,29 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using WebCinema01.Models;
 
 namespace WebCinema01.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        private readonly IMovieRepository movieRepository;
+        public HomeController()
+            : this(new MovieRepository())
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.";
+        }
 
-            return View();
+        public HomeController(IMovieRepository movieRepository)
+        {
+            this.movieRepository = movieRepository;
+        }
+
+        //
+        // GET: /Movies/
+
+        public ViewResult Index()
+        {
+            return View(movieRepository.All);
         }
 
         public ActionResult About()

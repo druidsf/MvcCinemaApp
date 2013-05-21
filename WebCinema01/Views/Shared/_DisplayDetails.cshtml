@@ -1,0 +1,49 @@
+﻿@model IEnumerable<WebCinema01.Models.Movie>
+
+<table>
+
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <b>Title</b>
+            <br />
+            @item.Title
+        </tr>
+        <br />
+        <tr>
+            <b>Director</b>
+            @item.Director
+        </tr>
+        <br />
+        <tr>
+            <b>Actors</b>
+            @item.Actors
+        </tr>
+        <br />
+        <tr>
+            <b>Description</b>
+            @item.Description
+        </tr>
+        <br />
+        <tr>
+            <b>From Date</b>
+            @String.Format("{0:d}", item.FromDate)
+        </tr>
+        <br />
+        <tr>
+            <b>To Date</b>
+            @String.Format("{0:d}", item.ToDate)
+        </tr>
+        <br />
+        <tr>
+            @item.Picture
+        </tr>
+        <br />
+        <tr>
+            <b>Duration</b>
+            @item.Duration
+        </tr>
+
+    }
+</table>

@@ -398,6 +398,7 @@
     <Content Include="Views\Reservations\Details.cshtml" />
     <Content Include="Views\Reservations\Index.cshtml" />
     <Content Include="Views\Reservations\_CreateOrEdit.cshtml" />
+    <Content Include="Views\Shared\_DisplayDetails.cshtml" />
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
