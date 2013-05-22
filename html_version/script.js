@@ -112,8 +112,10 @@ addLoadEvent(makeTheTableHeadsHighlight);
 
 $(function () {
             var settings = {
-                rows: 5,
-                cols: 15,
+                rows: 11,
+                cols: 20,
+                colSplitWidth: 30,
+                colToSplitFrom: 4,
                 rowCssPrefix: 'row-',
                 colCssPrefix: 'col-',
                 seatWidth: 35,
@@ -128,12 +130,17 @@ $(function () {
                 for (i = 0; i < settings.rows; i++) {
                     for (j = 0; j < settings.cols; j++) {
                         seatNo = (i + j * settings.rows + 1);
+                        additionalSpace = 0;
                         className = settings.seatCss + ' ' + settings.rowCssPrefix + i.toString() + ' ' + settings.colCssPrefix + j.toString();
                         if ($.isArray(reservedSeat) && $.inArray(seatNo, reservedSeat) != -1) {
                             className += ' ' + settings.selectedSeatCss;
                         }
+                        if (j >= settings.colToSplitFrom) {
+                        	additionalSpace = settings.colSplitWidth;
+                        }
+
                         str.push('<li class="' + className + '"' +
-                                  'style="top:' + (i * settings.seatHeight).toString() + 'px;left:' + (j * settings.seatWidth).toString() + 'px">' +
+                                  'style="top:' + (i * settings.seatHeight).toString() + 'px;left:' + (j * settings.seatWidth + additionalSpace).toString() + 'px">' +
                                   '<a title="' + seatNo + '">' + seatNo + '</a>' +
                                   '</li>');
                     }
